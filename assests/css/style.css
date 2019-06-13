@@ -1,0 +1,12 @@
+body {
+background-image: url("https://wallpapercave.com/wp/RBpf6Dr.jpg");
+text-align: center;
+background-size: cover;
+}
+
+.last-seconds {
+  color: red;
+}
+.option {
+  margin: 15px;
+}
